@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/remote-led/static/css/main.87ca27a6.chunk.css",
+    "main.js": "/remote-led/static/js/main.bb6b8c83.chunk.js",
+    "main.js.map": "/remote-led/static/js/main.bb6b8c83.chunk.js.map",
+    "runtime-main.js": "/remote-led/static/js/runtime-main.c971ea8b.js",
+    "runtime-main.js.map": "/remote-led/static/js/runtime-main.c971ea8b.js.map",
+    "static/js/2.fcd48624.chunk.js": "/remote-led/static/js/2.fcd48624.chunk.js",
+    "static/js/2.fcd48624.chunk.js.map": "/remote-led/static/js/2.fcd48624.chunk.js.map",
+    "static/js/3.6ffb8646.chunk.js": "/remote-led/static/js/3.6ffb8646.chunk.js",
+    "static/js/3.6ffb8646.chunk.js.map": "/remote-led/static/js/3.6ffb8646.chunk.js.map",
+    "index.html": "/remote-led/index.html",
+    "static/css/main.87ca27a6.chunk.css.map": "/remote-led/static/css/main.87ca27a6.chunk.css.map",
+    "static/js/2.fcd48624.chunk.js.LICENSE.txt": "/remote-led/static/js/2.fcd48624.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c971ea8b.js",
+    "static/js/2.fcd48624.chunk.js",
+    "static/css/main.87ca27a6.chunk.css",
+    "static/js/main.bb6b8c83.chunk.js"
+  ]
+}
